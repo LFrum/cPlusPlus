@@ -1,0 +1,10 @@
+﻿  VoteR2.cpp
+c:\users\lince\documents\fall 2018\data structure\project2\project2\search.h(24): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+  c:\users\lince\documents\fall 2018\data structure\project2\project2\voter2.cpp(648): note: see reference to function template instantiation '__int64 binarySearch<NvraRecord>(const T &,const TemplatedArray<T> &,const Comparator<T> &)' being compiled
+          with
+          [
+              T=NvraRecord
+          ]
+c:\users\lince\documents\fall 2018\data structure\project2\project2\search.h(28): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\lince\documents\fall 2018\data structure\project2\project2\search.h(45): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+  Project2.vcxproj -> C:\Users\Lince\Documents\Fall 2018\Data Structure\Project2\Debug\Project2.exe

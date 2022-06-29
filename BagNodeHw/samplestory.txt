@@ -1,0 +1,1 @@
+Your program should accept the names of the files as command-line parameters. If two file names are given, process the first and dump the traversal into the second. If only one file name is given, process the file and dump the traversal to the console. If no command-line parameters are given, prompt for both as described above.

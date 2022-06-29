@@ -1,0 +1,6 @@
+﻿  RomanNumbers.cpp
+c:\users\lince\documents\spring 2017\c++\romannumbers\romannumbers\romannumbers.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\lince\documents\spring 2017\c++\romannumbers\romannumbers\romannumbers.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\lince\documents\spring 2017\c++\romannumbers\romannumbers\romannumbers.cpp(266): warning C4018: '<': signed/unsigned mismatch
+  RomanNumbers.vcxproj -> C:\Users\Lince\Documents\Spring 2017\C++\RomanNumbers\Debug\RomanNumbers.exe
+  RomanNumbers.vcxproj -> C:\Users\Lince\Documents\Spring 2017\C++\RomanNumbers\Debug\RomanNumbers.pdb (Full PDB)

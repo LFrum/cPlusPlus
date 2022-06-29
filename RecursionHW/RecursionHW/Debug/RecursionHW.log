@@ -1,0 +1,4 @@
+﻿  Palindromes.cpp
+c:\users\lince\documents\spring 2017\c++\recursionhw\recursionhw\palindromes.cpp(92): warning C4715: 'test_CopySentence': not all control paths return a value
+  RecursionHW.vcxproj -> C:\Users\Lince\Documents\Spring 2017\C++\RecursionHW\Debug\RecursionHW.exe
+  RecursionHW.vcxproj -> C:\Users\Lince\Documents\Spring 2017\C++\RecursionHW\Debug\RecursionHW.pdb (Full PDB)

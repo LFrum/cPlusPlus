@@ -1,0 +1,4 @@
+﻿  NvraArray.cpp
+c:\users\lince\documents\fall 2018\data structure\lab3\lab3\nvraarray.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\lince\documents\fall 2018\data structure\lab3\lab3\nvraarray.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Users\Lince\Documents\Fall 2018\Data Structure\Lab3\Debug\Lab3.exe

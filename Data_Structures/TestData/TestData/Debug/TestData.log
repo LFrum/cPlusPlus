@@ -1,0 +1,4 @@
+﻿  TestData.cpp
+c:\users\lince\documents\fall 2018\data structure\testdata\testdata\testdata.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\lince\documents\fall 2018\data structure\testdata\testdata\testdata.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  TestData.vcxproj -> C:\Users\Lince\Documents\Fall 2018\Data Structure\TestData\Debug\TestData.exe
